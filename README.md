@@ -1,0 +1,1 @@
+# -partnershipping-money-bot
